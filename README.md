@@ -1,14 +1,12 @@
 # ⚡ DER Impact on Protection & Grounding
 
 ## 📘 Overview
-This project was developed as part of **ENEL 676 – Distributed Energy Resources** at the University of Calgary. It investigates the impact of integrating Distributed Energy Resources (DER), specifically synchronous generators, on **power system protection and grounding performance**.
 
 The study focuses on evaluating:
 - **Relay Desensitization Index (DI)**
 - **Coefficient of Grounding (CoG)**  
 before and after DER integration, and applying mitigation techniques to meet utility requirements.
 
----
 
 ## 🎯 Objectives
 - Analyze system behavior without DER (baseline case)
